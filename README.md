@@ -1,8 +1,6 @@
 # Avengers-Assemble-Python-2D-Game
 
-The Project Python 2D game was made by using Pygame module, It is a multimedia 
-
-library for python for making game and multimedia application. 
+The Project Python 2D game was made by using Pygame module, It is a multimedia library for python for making game and multimedia application. 
 
 The objective of the game is to clear all levels and collect diamonds without getting hit by Enemies or without touching water & lava.
 
